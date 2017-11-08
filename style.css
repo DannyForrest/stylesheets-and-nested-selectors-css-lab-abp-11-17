@@ -32,6 +32,6 @@ nav a {
 }
 
 header h3 {
-  float: left;
+  float: none;
   font-size: 30px;
 }
